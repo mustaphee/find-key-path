@@ -1,0 +1,20 @@
+{
+  "name": "find-key-path",
+  "version": "1.0.0",
+  "description": "This simple module helps you return the path of a key you pass into it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustaphee/find-key-path.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mustaphee/find-key-path/issues"
+  },
+  "homepage": "https://github.com/mustaphee/find-key-path#readme"
+}
